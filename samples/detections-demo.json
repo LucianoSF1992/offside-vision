@@ -1,0 +1,33 @@
+{
+  "ballX": 0.62,
+  "players": [
+    {
+      "id": "A17",
+      "team": "Attacking",
+      "shirtNumber": 17,
+      "x": 0.78,
+      "y": 0.45
+    },
+    {
+      "id": "D4",
+      "team": "Defending",
+      "shirtNumber": 4,
+      "x": 0.35,
+      "y": 0.35
+    },
+    {
+      "id": "D23",
+      "team": "Defending",
+      "shirtNumber": 23,
+      "x": 0.55,
+      "y": 0.58
+    },
+    {
+      "id": "D8",
+      "team": "Defending",
+      "shirtNumber": 8,
+      "x": 0.25,
+      "y": 0.72
+    }
+  ]
+}

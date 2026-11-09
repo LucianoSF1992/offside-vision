@@ -1,0 +1,45 @@
+# .NET
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+
+# Node / Angular
+**/node_modules/
+**/dist/
+.angular/
+.npm/
+
+# IDEs
+.idea/
+.vscode/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+secrets.json
+appsettings.*.local.json
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Machine Learning models
+models/*.onnx
+
+# Test results
+TestResults/
+coverage/
